@@ -1,0 +1,20 @@
+<div class="form" style="background-color: lightblue;">
+    <div class="filling" style="text-align: center;">
+        <span>Name:</span><input type="text">
+        <br>
+        <span>Email:</span><input type="text" name="mail">
+        <br>
+        <span>Phone No.:</span><input type="number" name="number">
+        <br>
+        <span>Subject:</span><input type="text">
+        <br>
+        <button style="padding:5px 10px; margin: 10px auto; border-radius: 20px; background-color: black; color: white; font-weight: bold; box-shadow: 5px 2px 2px;" > Submite</button> 
+    </div>
+</div>
+
+
+<div class=" col-12 heading-line" style="text-align: center; margin: 20px; color: black; font-weight: bold; font-size: 22px;">For More Information</div>
+
+
+
+<img src="images/young-happy-smiling-woman-casual-clothes-holding-laptop-sending-email-her-best-friend-isolated-gray-background_231208-7443-removebg-preview (1).png" class="myimage" data-aos="fade-left" style="   transition-duration: 3s;">
